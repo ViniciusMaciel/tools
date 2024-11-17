@@ -1,3 +1,7 @@
 Visual Studio Comunnity: https://visualstudio.microsoft.com/pt-br/vs/community/
 
 Winrar: https://www.win-rar.com/download.html?&L=0
+
+VirtualBox - https://www.virtualbox.org/wiki/Downloads
+
+Ubuntu 12.04 x86 - https://old-releases.ubuntu.com/releases/12.04/ubuntu-12.04-alternate-i386.iso
